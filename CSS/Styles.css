@@ -1,6 +1,6 @@
 body {
   font-family: 'Commissioner', sans-serif;
-  margin: none;
+  margin: 0;
   font-size: 1.5rem;
   color: #1a1f26;
   line-height: 1.5;
@@ -17,6 +17,7 @@ h1 {
 h2 {
   font-family: 'Cormorant', serif;
   margin: 3rem 20% 0 20%;
+  font-size: 3rem;
 }
 
 hr {
@@ -27,7 +28,7 @@ hr {
 }
 
 .topcontainer:fullscreen {
-  margin: none;
+  margin: 0;
 }
 
 .header-1 {
@@ -58,8 +59,8 @@ hr {
 .bio-container {
   margin-left: 10%;
   padding: 5% 20%;
-  width: 45%;
-  text-align: justify;
+  width: 50%;
+  text-align: left;
 }
 
 .name-credentials {
