@@ -4,13 +4,11 @@ body {
   font-size: 1.5rem;
   color: #1a1f26;
   line-height: 1.5;
-  width: 100%;
 }
 
 h1 {
   font-family: 'WindSong', cursive;
   width: 60%;
-  text-align: center;
   padding: 0 0 3rem 0;
 }
 
@@ -36,7 +34,7 @@ hr {
   font-size: 5rem;
   color: white;
   position: absolute;
-  left: 20rem;
+  left: 10rem;
   top: 10rem;
 }
 
@@ -46,7 +44,7 @@ hr {
   letter-spacing: .1rem;
   color: white;
   position: absolute;
- left: 20rem;
+ left: 10rem;
  top: 18rem;
 }
 
@@ -59,7 +57,7 @@ hr {
 
 .bio-container {
   margin-left: 10%;
-  padding: 5% 20%;
+  padding: 5% 10%;
   width: 60%;
   text-align: justify;
 }
