@@ -66,6 +66,7 @@ hr {
   padding-top: 0;
   width: 60%
   font-size: 3rem;
+  text-align: left;
 }
 
 .profile-pic {
@@ -169,6 +170,10 @@ hr {
 
 .footer-link:hover {
   color: #060273;
+}
+.email-me {
+  text-align: justify;
+    width: 40%;
 }
 
 .copyright {
