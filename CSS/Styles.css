@@ -14,8 +14,9 @@ h1 {
 
 h2 {
   font-family: 'Cormorant', serif;
-  margin: 3rem 0 0 0;
+  margin-top: 3rem;
   font-size: 3rem;
+  text-align: center;
 }
 
 hr {
@@ -76,7 +77,6 @@ hr {
 
 .skills-container {
   margin-top: -3rem;
-  margin-left: 10%;
   padding: 5% 10%;
   text-align: center;
   width: 60%;
