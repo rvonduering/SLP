@@ -87,6 +87,10 @@ hr {
   color: #060273;
 }
 
+.skills-header {
+  text-align: center;
+}
+
 .SLP-img {
   width: 35%;
   float: left;
