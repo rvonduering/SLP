@@ -75,11 +75,12 @@ hr {
   padding-right: 1rem;
 }
 
-/* Fix Centering (try margin-left: auto margin-right: auto;*/
+/* Fix Centering (try justify-content: center;*/
 .skills-container {
   margin-top: -3rem;
   padding: 5% 10%;
-  justify-content: center;
+  margin-left: auto; 
+  margin-right: auto;
   width: 60%;
 }
 
